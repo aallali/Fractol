@@ -16,9 +16,9 @@ Different colors patterns.
 
 ```
 $> make
-$> ./fractol mandelbrot
-$> ./fractol julia
-$> ./fractol three
+$> ./Fractol mandelbrot
+$> ./Fractol julia
+$> ./Fractol three
 ```
 
 ## Pictures
@@ -28,8 +28,7 @@ $> ./fractol three
 
 ### Julia
 ![alt tag](https://github.com/aallali/Fractol/blob/main/ScreenShots/Screen%20Shot%202020-01-20%20at%207.08.27%20PM.png?raw=true)
-![alt tag](https://raw.githubusercontent.com/GlThibault/pics/master/fractol_julia2.png)
 
 ### three
-![alt tag](https://raw.githubusercontent.com/GlThibault/pics/master/fractol_burningship.png)
+![alt tag](https://github.com/aallali/Fractol/blob/main/ScreenShots/Screen%20Shot%202021-02-04%20at%205.33.58%20PM.png?raw=true)
 ![alt tag](https://raw.githubusercontent.com/GlThibault/pics/master/fractol_burningship2.png)
