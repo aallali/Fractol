@@ -31,4 +31,4 @@ $> ./Fractol three
 
 ### three
 ![alt tag](https://github.com/aallali/Fractol/blob/main/ScreenShots/Screen%20Shot%202021-02-04%20at%205.33.58%20PM.png?raw=true)
-![alt tag](https://raw.githubusercontent.com/GlThibault/pics/master/fractol_burningship2.png)
+![alt tag](https://github.com/aallali/Fractol/blob/main/ScreenShots/Screen%20Shot%202021-02-04%20at%205.34.35%20PM.png?raw=true)
