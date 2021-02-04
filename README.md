@@ -24,11 +24,10 @@ $> ./fractol three
 ## Pictures
 ### Mandelbrot
 
-![alt tag](https://raw.githubusercontent.com/GlThibault/pics/master/fractol_mandelbrot.png)
-![alt tag](https://raw.githubusercontent.com/GlThibault/pics/master/fractol_mandelbrot2.png)
+![alt tag](https://github.com/aallali/Fractol/blob/main/ScreenShots/Screen%20Shot%202020-01-21%20at%204.12.03%20AM.png?raw=true)
 
 ### Julia
-![alt tag](https://raw.githubusercontent.com/GlThibault/pics/master/fractol_julia.png)
+![alt tag](https://github.com/aallali/Fractol/blob/main/ScreenShots/Screen%20Shot%202020-01-20%20at%207.08.27%20PM.png?raw=true)
 ![alt tag](https://raw.githubusercontent.com/GlThibault/pics/master/fractol_julia2.png)
 
 ### three
